@@ -1,2 +1,1 @@
-# CDN
-jsDelivr CDN
+# AristarcoCSS
