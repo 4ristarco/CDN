@@ -1,4 +1,8 @@
-# AristarcoCSS
+# Bienvenido
+
+## Inicio Rapido
+
+## CDN
 
 Para empezar copia y pega el CDN dentro del \<head> en tu archivo HTML
 
