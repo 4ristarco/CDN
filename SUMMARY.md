@@ -6,3 +6,8 @@
 ## Componentes
 
 * [Acordeón](componentes/acordeon.md)
+* [Botones](componentes/botones.md)
+* [Carrusel](componentes/carrusel.md)
+* [Mensajes](componentes/mensajes.md)
+* [Menú](componentes/menu.md)
+* [Tarjeta](componentes/tarjeta.md)
