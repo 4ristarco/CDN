@@ -4,7 +4,9 @@
 
 ## Primeros Pasos
 
-* [Configurar entorno de desarrollo](primeros-pasos/configurar-entorno-de-desarrollo.md)
+* [Configurar entorno de desarrollo](primeros-pasos/configurar-entorno-de-desarrollo/README.md)
+  * [Visual Studio Code](primeros-pasos/configurar-entorno-de-desarrollo/visual-studio-code.md)
+  * [Extensiones](primeros-pasos/configurar-entorno-de-desarrollo/extensiones.md)
 * [Introduccion a HTML](primeros-pasos/introduccion-a-html.md)
 * [Introducción a CSS](primeros-pasos/introduccion-a-css.md)
 * [Instalando AristarcoCSS](primeros-pasos/instalando-aristarcocss.md)
