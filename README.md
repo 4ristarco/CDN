@@ -1,11 +1,8 @@
----
-cover: .gitbook/assets/Imagen2.png
-coverY: 0
----
-
 # Bienvenido
 
 ## Inicio Rapido
+
+![](.gitbook/assets/Imagen2.png)
 
 ## CDN
 
