@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: .gitbook/assets/Imagen2.png
+coverY: 38.76651982378854
 ---
 
 # Bienvenido
